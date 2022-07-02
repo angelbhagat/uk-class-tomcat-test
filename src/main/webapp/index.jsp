@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
 </head>
 <body>
-  <div class="jumbotron" style="background-color:white">
+  <div class="jumbotron" style="background-color:pink">
      <h1 class="text-center">Welcome to</h1>
       <img src="https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/09/06/865794-anushka-shetty-body-shaming.jpg" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
