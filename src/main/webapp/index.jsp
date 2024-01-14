@@ -8,10 +8,10 @@
 <body>
   <div class="jumbotron" style="background-color:pink">
      <h1 class="text-center">Welcome to</h1>
-      <img src="https://cdn.dnaindia.com/sites/default/files/styles/full/public/2019/09/06/865794-anushka-shetty-body-shaming.jpg" alt="Spidertocat"
+      <img src="https://m.media-amazon.com/images/M/MV5BNGZjMGM1MTgtZTAwMy00NmEwLTg5NTMtOGJlYjI3Y2UzMzVlXkEyXkFqcGdeQXVyMjYwMDk5NjE@._V1_.jpg" alt="Spidertocat"
            class="img-responsive center-block" style="width:350px"/>
-      <h1 class="text-center">My job is done with anuskha</h1>
-      <h2 class="text-center">Now myself and anuskha go to beach</h2>
+      <h1 class="text-center">My job is done with trisha</h1>
+      <h2 class="text-center">Now myself and anuskha go to moview</h2>
   </div>
 </body>
 </html>
